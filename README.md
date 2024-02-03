@@ -1,1 +1,1 @@
-Ashley Bythlel - Scala code repository
+Ashley Bythell - Scala code repository
