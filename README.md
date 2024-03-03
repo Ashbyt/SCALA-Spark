@@ -7,6 +7,7 @@ https://spark.apache.org/docs/latest/api/python/getting_started/quickstart_ps.ht
 https://maelfabien.github.io/bigdata/spark3/#pre-processing
 https://spark.apache.org/docs/latest/ml-guide.html
 https://spark.apache.org/docs/latest/ml-classification-regression.html
+https://medium.com/codex/fun-with-scala-and-ai-1853be207c26
 
 
 
