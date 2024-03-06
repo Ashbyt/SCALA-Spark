@@ -9,6 +9,7 @@ https://spark.apache.org/docs/latest/ml-guide.html
 https://spark.apache.org/docs/latest/ml-classification-regression.html
 https://medium.com/codex/fun-with-scala-and-ai-1853be207c26
 https://towardsdatascience.com/data-science-and-machine-learning-with-scala-and-spark-episode-02-03-be74f0590f20
+https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/
 
 
 
