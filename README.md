@@ -1,5 +1,6 @@
-Ashley Bythell - Scala code repository
+Ashley Bythell - Scala repository
 
+https://towardsdatascience.com/complete-guide-to-spark-and-pyspark-setup-for-data-science-374ecd8d1eea
 https://towardsdatascience.com/introduction-to-apache-spark-with-scala-ed31d8300fe4
 https://spark.apache.org/docs/latest/ml-classification-regression.html
 https://spark.apache.org/docs/2.2.1/sql-programming-guide.html
