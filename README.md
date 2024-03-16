@@ -13,5 +13,6 @@ https://medium.com/codex/fun-with-scala-and-ai-1853be207c26
 https://towardsdatascience.com/data-science-and-machine-learning-with-scala-and-spark-episode-02-03-be74f0590f20
 https://towardsdatascience.com/data-transformation-using-the-window-functions-in-pyspark-c044e8be4de6
 https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/
-
+https://www.youtube.com/watch?v=S2MUhGA3lEw
+https://www.youtube.com/watch?v=zC9cnh8rJd0
 
