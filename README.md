@@ -15,4 +15,5 @@ https://towardsdatascience.com/data-transformation-using-the-window-functions-in
 https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/
 https://www.youtube.com/watch?v=S2MUhGA3lEw
 https://www.youtube.com/watch?v=zC9cnh8rJd0
+https://spark.apache.org/docs/latest/structured-streaming-kafka-integration.html
 
