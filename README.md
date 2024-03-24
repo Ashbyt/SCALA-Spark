@@ -1,5 +1,8 @@
 Ashley Bythell - Scala repository
 
+https://reintech.io/blog/real-world-scala-building-web-application
+https://www.mygreatlearning.com/blog/scala-tutorial/#who-uses-scala
+https://medium.com/@vlad.koval/magic-of-scala-real-world-use-cases-4706d7d13548
 https://docs.scala-lang.org/books.html
 https://towardsdatascience.com/complete-guide-to-spark-and-pyspark-setup-for-data-science-374ecd8d1eea
 https://towardsdatascience.com/introduction-to-apache-spark-with-scala-ed31d8300fe4
