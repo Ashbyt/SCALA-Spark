@@ -1,5 +1,7 @@
 Ashley Bythell - Scala repository
 
+https://www.oreilly.com/library/view/learning-scala/9781449368814/
+https://www.oreilly.com/library/view/programming-scala-3rd/9781492077886/
 https://www.linkedin.com/learning/scala-essential-training-for-data-science/introduction-to-spark
 https://reintech.io/blog/real-world-scala-building-web-application
 https://www.mygreatlearning.com/blog/scala-tutorial/#who-uses-scala
