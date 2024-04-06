@@ -1,5 +1,9 @@
 Ashley Bythell - Scala repository
 
+https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html
+https://www.youtube.com/watch?v=3HooMbk7SF8
+https://medium.com/@rishikaidnani/complex-types-in-spark-arrays-maps-structs-b9410678c527
+https://docs.databricks.com/en/_extras/notebooks/source/transform-complex-data-types-scala.html
 https://www.oreilly.com/library/view/learning-scala/9781449368814/
 https://www.oreilly.com/library/view/programming-scala-3rd/9781492077886/
 https://www.linkedin.com/learning/scala-essential-training-for-data-science/introduction-to-spark
