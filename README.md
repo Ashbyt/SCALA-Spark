@@ -1,5 +1,7 @@
 Ashley Bythell - Scala repository
 
+
+https://www.linkedin.com/pulse/leveraging-generative-ai-apache-spark-transforming-mich-lxbte/
 https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html
 https://www.youtube.com/watch?v=3HooMbk7SF8
 https://medium.com/@rishikaidnani/complex-types-in-spark-arrays-maps-structs-b9410678c527
